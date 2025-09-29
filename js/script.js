@@ -171,7 +171,7 @@ $(document).ready(function () {
             src : "./img/lot.png",
             borderTop : "5px solid #933FED",
             desc : "web/ 롯대월드 민족 박물관은 우리 민족의 역사와 전통문화가 살아 숨쉬는 공간입니다.🎎 우리 민족 고유의 역사와 다양한 문화유산들을 시대별로 감상할 수 있습니다.🏯 어린이와 가족이 함께 즐길 수 있는 교육·체험 프로그램 👨‍👩‍👧👧을 경험할 수 있는 롯데월드 민속박물관에서 경험해 보세요. 🌟",
-            link : "https://ghdrudals.github.io/lotte/",
+            link : "https://ghdrudals.github.io/lotte_hong/",
         },
     ]
 
@@ -191,6 +191,7 @@ $(document).ready(function () {
     $(".sec4_intropage_button").on("click",function(){
         $(".sec4_intropage_background").fadeOut()
     })
+
 
 
 
