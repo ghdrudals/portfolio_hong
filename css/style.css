@@ -756,9 +756,10 @@ footer{
     .sec4_img_position4{
         right: calc(50% - 250px);
     }
-    .sec4_img_intropage{
-        width: 60%;
+    .sec4_intropage_background>.sec4_img_intropage{
+    width: 70%;
     }
+    
 
 
 
@@ -898,6 +899,9 @@ footer{
     }
     .sec4_img_position4{
         left: calc(50% - 40vw);
+    }
+    .sec4_intropage_background>.sec4_img_intropage{
+    width: 80%;
     }
 
 }
